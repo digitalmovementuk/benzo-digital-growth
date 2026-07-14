@@ -30,18 +30,17 @@ Eine neue Website, gezielte Seiten für Gastronomie, Hotellerie und Fachhandel, 
 ## Content
 
 1. Benzo SEO Analyse
-2. Status quo und Wettbewerb
-3. Landingpage-Potenzial
-4. Project Timeline & Steps
-5. SEO-Rankingkurve
-6. Website Preview
-7. Packages
-8. Gründer und Ansprechpartner
-9. Digital Movement
+2. High-Potential Keywords
+3. Project Timeline & Steps
+4. SEO-Rankingkurve
+5. Website Preview
+6. Packages
+7. Your project team
+8. Digital Movement
 
 ---
 
-## Benzo SEO Analyse
+## 01 — Benzo SEO Analyse
 
 ### Etablierte Marke.
 *Fehlende Reichweite.*
@@ -78,13 +77,20 @@ Die Reichweite hängt jedoch fast vollständig von Menschen ab, die Benzo bereit
 
 ### 03 — Status quo
 
-Lediglich vier markenunabhängige Keywords ranken. Rund 97 % des geschätzten organischen Traffics entstehen über Markensuchen. Benzo wird also vor allem von Menschen gefunden, die das Unternehmen bereits kennen.
+Vier markenunabhängige Keywords stehen bereits auf oder direkt vor Seite 1. Rund 97 % des geschätzten organischen Traffics entstehen dennoch über Markensuchen. Benzo wird also vor allem von Menschen gefunden, die das Unternehmen bereits kennen.
+
+| Markenunabhängiger Suchbegriff | Position | Suchen/Monat |
+|---|---:|---:|
+| italienischer Großhandel Berlin | 5 | 140 |
+| italienische Lebensmittel Berlin | 9 | 210 |
+| italienische Feinkost Berlin | 10 | 210 |
+| italienischer Supermarkt Berlin | 11 | 1.000 |
 
 **Sichtbarkeitsmix:** Rund 97 % Markensuchen gegenüber nur rund 3 % generischer Nachfrage. Die Marke wird gefunden; neue B2B-Zielgruppen werden bislang kaum erschlossen.
 
 | Bereich | Aktueller Stand | Einordnung |
 |---|---|---|
-| Markenunabhängige Sichtbarkeit | Nur 4 Keywords | Der überwiegende Teil der Sichtbarkeit hängt am Namen „Benzo“ |
+| Markenunabhängige Sichtbarkeit | 4 Keywords auf oder direkt vor Seite 1 | Die Positionen 5, 9, 10 und 11 bilden die direkte Wachstumsbasis |
 | Google-SERP | Position 5 lokal | Bundesweite B2B-Suchen liegen meist noch außerhalb der Top 10 |
 | Sitemap | Nur 4 URLs | Leistungs-, Sortiment- und Lieferseiten fehlen fast vollständig |
 | Technik | 3 H1 + kein Schema | Metadaten und strukturierte Signale sind nicht sauber aufgebaut |
@@ -131,9 +137,18 @@ Fresco ist der direkte Wettbewerber. Centro Italia zeigt die mögliche Reichweit
 | bell-italia.com | 2.447 | 9.726 | Große Marken- und Produktabdeckung |
 | centro-italia.de | 12.164 | 61.750 | Größter Benchmark für Kategorie- und Inhaltstiefe |
 
+#### Wettbewerber auf Seite 1 · Benzo noch nicht
+
+| Primärer Suchbegriff | Benzo | Wettbewerber auf Seite 1 |
+|---|---:|---|
+| italienischer Großhandel | Position 18 | Italia-Import, Bell Italia, ASIMEX, Fresco Berlin |
+| italienische Lebensmittel Großhandel | Position 36 | Italia-Import, Bell Italia, ASIMEX |
+| italienische Feinkost online | Nicht Top 10 | Centro Italia, Gustini, Viani, Italia-Import |
+| italienische Lebensmittel online | Nicht Top 10 | Centro Italia, Gustini, Italia-Import |
+
 ---
 
-## 04 — High-Potential Keywords
+## 02 — High-Potential Keywords
 
 ### Sieben starke Landingpages.
 
@@ -163,7 +178,7 @@ Unsere SEO-Analyse hat eine Liste von Suchbegriffen ergeben, die für Benzo gro�
 
 ---
 
-## Project Timeline & Steps
+## 03 — Project Timeline & Steps
 
 ### Unser etablierter Projektablauf in wenigen Schritten.
 
@@ -183,7 +198,7 @@ Die SEO-Analyse ist bereits geliefert. Nach der Vertragsfreigabe folgen Strategi
 
 ---
 
-## SEO-Rankingkurve
+## 04 — SEO-Rankingkurve
 
 Die folgende Kurve übernimmt das qualitative 12-Monats-Modell aus dem CEx-Proposal. Benzo besitzt bereits eine etablierte Domain und erste lokale Rankings. Dadurch kann die Startphase günstiger verlaufen als bei einer komplett neuen Website. Konkrete Positionen oder Anfragezahlen bleiben von Wettbewerb, Freigabegeschwindigkeit, Inhalt und Google abhängig.
 
@@ -196,7 +211,7 @@ Die folgende Kurve übernimmt das qualitative 12-Monats-Modell aus dem CEx-Propo
 
 ---
 
-## Website Preview
+## 05 — Website Preview
 
 Die interaktive Vorschau zeigt die empfohlene visuelle Richtung und das responsive Verhalten auf Desktop und Mobilgeräten.
 
@@ -206,7 +221,7 @@ Die interaktive Vorschau zeigt die empfohlene visuelle Richtung und das responsi
 
 ---
 
-## Packages
+## 06 — Packages
 
 ### SEO & High-End Website Development
 
@@ -266,33 +281,52 @@ Die Empfehlung verbindet 15 priorisierte Landingpages, Copy, Design, technische 
 
 ---
 
-## Gründer + Ihr Ansprechpartner
+## 07 — Your project team
+
+Benzo erhält ein festes Team für Strategie, Projektsteuerung, SEO-Umsetzung und deutschsprachige Inhalte.
 
 ### Martey Quaye
 
-**Co-Founder, Digital Movement**
+**Co-Founder & Digital Strategy**
 
-Martey begleitet die strategische Entwicklung von Digital Movement und bringt langjährige Erfahrung aus Websites, Suchmaschinenmarketing und digitalem Wachstum ein.
+Martey verantwortet die strategische Ausrichtung und die digitale Wachstumsarchitektur für Benzo.
+
+- [Martey Quaye auf LinkedIn](https://www.linkedin.com/in/martey-quaye-64a05017b/)
 
 ### Raoul (Alex) Müller
 
-**Co-Founder & Ansprechpartner, Digital Movement UK**
+**Co-Founder & Account Manager**
 
-Raoul führt Benzo durch Strategie, Freigaben, Umsetzung und Reporting. Damit gibt es während des gesamten Projekts einen festen Ansprechpartner.
+Raoul koordiniert Strategie, Freigaben, Umsetzung und Reporting als zentraler Ansprechpartner.
 
 - WhatsApp: [+49 176 82360647](https://wa.me/4917682360647)
 - Telefon: [+49 176 23296439](tel:+4917623296439)
 - E-Mail: [Alex@digitalmovement.uk](mailto:Alex@digitalmovement.uk)
+- [Raoul Müller auf LinkedIn](https://www.linkedin.com/in/raoulmueller)
+
+### Fabian Pianka
+
+**SEO Copy Writer Germany**
+
+Fabian verfasst die deutschsprachigen SEO-Inhalte passend zu Benzo, Zielgruppen und Sortiment.
+
+### Dean Bosilkovski
+
+**SEO Operations Manager**
+
+Dean steuert SEO-Struktur, technische Qualität, Umsetzung und laufende Optimierung.
+
+- [Dean Bosilkovski auf LinkedIn](https://www.linkedin.com/in/deanbosilkovski/)
 
 ---
 
-## Nächster Schritt
+### Nächster Schritt
 
 Nach Auswahl des Pakets wird der Kick-off-Termin vereinbart. Im Workshop werden Zielgruppen, Leistungen, Liefergebiete und die Reihenfolge der wichtigsten Seiten verbindlich festgelegt.
 
 ---
 
-## Digital Movement
+## 08 — Digital Movement
 
 ### Wir helfen Unternehmen seit 2018 zu mehr Wachstum.
 
@@ -327,6 +361,8 @@ Seit 2018 helfen wir unseren Kunden, online sichtbar und gefunden zu werden, Kun
 
 **5,0 · ★★★★★ · 102 Google Reviews**
 
+[Alle Google Reviews von Digital Movement Melbourne ansehen](https://www.google.com/search?q=Digital+Movement+Melbourne+Reviews)
+
 - **Jessica Purcell:** „Qualität, proaktive Zusammenarbeit und Ergebnisse wie versprochen.“
 - **Matthew Kang:** „Kompletter Website-Relaunch sowie starke Resultate aus SEO und Google Ads.“
 - **Clarity Essential Wellness:** „Beständigerer Traffic und mehr Verkäufe durch die SEO-Arbeit.“
@@ -335,35 +371,37 @@ Seit 2018 helfen wir unseren Kunden, online sichtbar und gefunden zu werden, Kun
 
 ---
 
-## Digital Movement Offices
+### Digital Movement Offices
 
-### London Office · United Kingdom
+**Driving *Digital Growth* across the globe.**
+
+#### London Office · United Kingdom
 
 - 128 City Road, London, EC1V 2NX
 - [+44 (0) 207 689 7888](tel:+442076897888)
 - [office@digitalmovement.uk](mailto:office@digitalmovement.uk)
 - [digitalmovement.uk](https://digitalmovement.uk)
 
-### Auckland Office · New Zealand
+#### Auckland Office · New Zealand
 
 - Level 8, 139 Quay Street, Auckland 1010
 - [+64 (0) 9 363 2929](tel:+6493632929)
 - [office@digitalmovement.co.nz](mailto:office@digitalmovement.co.nz)
 - [digitalmovement.co.nz](https://www.digitalmovement.co.nz)
 
-### Berlin Office · Germany
+#### Berlin Office · Germany
 
 - Potsdamer Platz 1, 10117 Berlin
 - [+49 (0) 176 8236064](tel:+491768236064)
 
-### Melbourne HQ · Australia
+#### Melbourne HQ · Australia
 
 - Level 3/480 Collins St, Melbourne VIC 3000
 - [+61 (0) 300 988 161](tel:+61300988161)
 - [office@digitalmovement.com.au](mailto:office@digitalmovement.com.au)
 - [digitalmovement.com.au](https://www.digitalmovement.com.au)
 
-## Quellen und Datenhinweis
+### Quellen und Datenhinweis
 
 - Semrush Deutschland: Domain Overview, Organic Research, Competitor Research und Keyword Research; abgerufen am 13. Juli 2026
 - Google-Suchergebnisse für die geprüften B2B- und Shop-Suchen; abgerufen am 13. Juli 2026

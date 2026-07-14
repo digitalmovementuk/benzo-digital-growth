@@ -1,0 +1,107 @@
+{
+  "images": [
+    {
+      "src": "assets/chef-plating-louis-hansel.jpg",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://unsplash.com/photos/chef-preparing-foods-0sYLBZjgTTw",
+      "source_site": "Unsplash",
+      "license": "Unsplash License",
+      "author": "Louis Hansel",
+      "role": "hero",
+      "alt": "Küchenteam richtet Gerichte in einer professionellen Restaurantküche an"
+    },
+    {
+      "src": "assets/benzo-warehouse.webp",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Lager-panorama.webp",
+      "source_site": "Benzo GmbH website",
+      "license": "Brand asset - client-owned website photography; reused for private redesign preview",
+      "author": "Benzo GmbH",
+      "role": "logistics",
+      "alt": "Lager der Benzo GmbH in Berlin mit Paletten und Warenbestand"
+    },
+    {
+      "src": "assets/benzo-wine.webp",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Regal-wein.webp",
+      "source_site": "Benzo GmbH website",
+      "license": "Brand asset - client-owned website photography; reused for private redesign preview",
+      "author": "Benzo GmbH",
+      "role": "assortment",
+      "alt": "Wein- und Feinkostsortiment im Benzo Markt in Berlin"
+    },
+    {
+      "src": "assets/benzo-pasta.webp",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Regal_DeCecco.webp",
+      "source_site": "Benzo GmbH website",
+      "license": "Brand asset - client-owned website photography; reused for private redesign preview",
+      "author": "Benzo GmbH",
+      "role": "assortment",
+      "alt": "Italienische Pasta in verschiedenen Formen im Benzo Sortiment"
+    },
+    {
+      "src": "assets/benzo-salumeria.webp",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Salumeria.webp",
+      "source_site": "Benzo GmbH website",
+      "license": "Brand asset - client-owned website photography; reused for private redesign preview",
+      "author": "Benzo GmbH",
+      "role": "store",
+      "alt": "Frischetheke mit italienischen Spezialitäten im Benzo Markt"
+    },
+    {
+      "src": "assets/benzo-lifestyle.webp",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Life-style-Privatkunde.webp",
+      "source_site": "Benzo GmbH website",
+      "license": "Brand asset - client-owned website photography; reused for private redesign preview",
+      "author": "Benzo GmbH",
+      "role": "private-customers",
+      "alt": "Freunde genießen Wein und italienische Spezialitäten an einer Tafel"
+    },
+    {
+      "src": "assets/benzo-van.webp",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/benzo-transporter.webp",
+      "source_site": "Benzo GmbH website",
+      "license": "Brand asset - client-owned website photography; reused for private redesign preview",
+      "author": "Benzo GmbH",
+      "role": "delivery",
+      "alt": "Benzo Lieferfahrzeug für italienische Spezialitäten"
+    },
+    {
+      "src": "assets/benzo-mark.webp",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://www.benzo-berlin.de/",
+      "source_site": "Benzo GmbH website",
+      "license": "Brand asset - client-owned logo",
+      "author": "Benzo GmbH",
+      "role": "logo",
+      "alt": "Benzo"
+    },
+    {
+      "src": "assets/benzo-logo-white.webp",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://www.benzo-berlin.de/",
+      "source_site": "Benzo GmbH website",
+      "license": "Brand asset - client-owned logo",
+      "author": "Benzo GmbH",
+      "role": "logo",
+      "alt": "Benzo"
+    }
+  ],
+  "videos": [
+    {
+      "src": "assets/benzo-hero-kitchen-web.mp4",
+      "page": "https://www.benzo-berlin.de/",
+      "source": "https://www.pexels.com/video/a-group-of-chefs-busy-working-in-the-restaurant-kitchen-3768941/",
+      "source_site": "Pexels",
+      "license": "Pexels License",
+      "author": "Taryn Elliott",
+      "role": "hero-video",
+      "status": "Temporary stock asset for the redesign preview",
+      "description": "Chefs working in a professional restaurant kitchen"
+    }
+  ]
+}

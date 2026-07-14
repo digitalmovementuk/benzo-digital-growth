@@ -1,0 +1,129 @@
+{
+  "project": "Benzo Berlin – Virtueller Rundgang",
+  "sourcePage": "https://www.benzo-berlin.de/",
+  "licenseNote": "Official Benzo GmbH website photography and brand assets, reused for the Benzo website tour.",
+  "images": [
+    {
+      "file": "Ab-selezione.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Ab-selezione.webp",
+      "role": "product-detail",
+      "alt": "Verpackung und Flasche AB Selezione Grappa I Millesimi 2008 im Benzo Sortiment"
+    },
+    {
+      "file": "Annone.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Annone.webp",
+      "role": "product-detail",
+      "alt": "Flasche Annone Rosso auf Weinkartons im Benzo Markt"
+    },
+    {
+      "file": "Gaja.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Gaja.webp",
+      "role": "product-detail",
+      "alt": "Flasche Gaja Darmagi Langhe 2015 auf verpackten Weinflaschen"
+    },
+    {
+      "file": "Gragnano.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Gragnano.webp",
+      "role": "product-detail",
+      "alt": "Regal mit verschiedenen Pastaformen aus Gragnano im Benzo Markt"
+    },
+    {
+      "file": "Jermann.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Jermann.webp",
+      "role": "product-detail",
+      "alt": "Reihe von Jermann Weißweinflaschen im Weinregal des Benzo Markts"
+    },
+    {
+      "file": "LEH-Panorama.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/LEH-Panorama.webp",
+      "role": "tour-scene",
+      "alt": "Panoramablick über die Verkaufsfläche des Benzo Markts mit Wein-, Pasta- und Feinkostregalen"
+    },
+    {
+      "file": "LEH1-panorama.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/LEH1-panorama.webp",
+      "role": "tour-scene",
+      "alt": "Blick durch einen Marktgang mit Kaffee, Feinkost, Spirituosen und Wein im Benzo Markt"
+    },
+    {
+      "file": "Lager-panorama.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Lager-panorama.webp",
+      "role": "tour-scene",
+      "alt": "Panoramablick in das Benzo Lager mit Paletten, Kartons und Hochregalen"
+    },
+    {
+      "file": "Lager1-panorama.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Lager1-panorama.webp",
+      "role": "tour-scene",
+      "alt": "Lagergang mit Paletten und gestapelten De-Cecco-Kartons im Benzo Lager"
+    },
+    {
+      "file": "Nonino.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Nonino.webp",
+      "role": "product-detail",
+      "alt": "Mehrere Nonino Grappa-Flaschen im Spirituosenregal des Benzo Markts"
+    },
+    {
+      "file": "Regal-wein.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Regal-wein.webp",
+      "role": "tour-scene",
+      "alt": "Wein- und Feinkostregale im Benzo Markt"
+    },
+    {
+      "file": "Regal_DeCecco.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Regal_DeCecco.webp",
+      "role": "tour-scene",
+      "alt": "Regal mit De-Cecco-Pasta in verschiedenen Formen im Benzo Markt"
+    },
+    {
+      "file": "Regale-panorama.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Regale-panorama.webp",
+      "role": "tour-scene",
+      "alt": "Breiter Blick über die Regale mit Wein, Pasta und Feinkost im Benzo Markt"
+    },
+    {
+      "file": "Rotari.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Rotari.webp",
+      "role": "product-detail",
+      "alt": "Reihe von Rotari Schaumweinflaschen mit gelben Etiketten im Weinregal"
+    },
+    {
+      "file": "Rummo.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Rummo.webp",
+      "role": "product-detail",
+      "alt": "Gestapelte Kartons Rummo Rigatoni Nummer 50 im Benzo Lager"
+    },
+    {
+      "file": "Salumeria.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/Salumeria.webp",
+      "role": "tour-scene",
+      "alt": "Frischetheke der Benzo Salumeria mit rot-weiß kariertem Baldachin"
+    },
+    {
+      "file": "benzo-panorama.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/benzo-panorama.webp",
+      "role": "tour-scene",
+      "alt": "Außenansicht des Benzo Gebäudes mit Eingang, Firmenbeschriftung und Kundenparkplätzen"
+    },
+    {
+      "file": "benzo-transporter.webp",
+      "source": "https://www.benzo-berlin.de/wp-content/uploads/2026/05/benzo-transporter.webp",
+      "role": "tour-scene",
+      "alt": "Nahaufnahme eines weißen Benzo Lieferwagens mit Firmenlogo"
+    }
+  ],
+  "brandAssets": [
+    {
+      "file": "benzo-logo-white.webp",
+      "source": "https://www.benzo-berlin.de/",
+      "role": "logo",
+      "alt": "Benzo"
+    },
+    {
+      "file": "benzo-mark.webp",
+      "source": "https://www.benzo-berlin.de/",
+      "role": "favicon",
+      "alt": "Benzo"
+    }
+  ]
+}

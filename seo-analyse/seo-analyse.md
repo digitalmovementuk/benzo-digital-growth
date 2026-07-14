@@ -43,7 +43,7 @@ Eine neue Website, gezielte Seiten für Gastronomie, Hotellerie und Fachhandel, 
 
 ## Benzo SEO Analyse
 
-### Etablierte Marke.  
+### Etablierte Marke.
 *Fehlende Reichweite.*
 
 Google rankt Benzo bereits. Die aktuelle Seitenstruktur macht aus diesem Vertrauen allerdings noch keine breite B2B-Neukundengewinnung.

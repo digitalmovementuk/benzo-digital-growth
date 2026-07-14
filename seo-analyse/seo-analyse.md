@@ -29,64 +29,22 @@ Eine neue Website, gezielte Seiten für Gastronomie, Hotellerie und Fachhandel, 
 
 ## Content
 
-1. Digital Movement
-2. Benzo SEO Analyse
-3. Status quo und Wettbewerb
-4. Landingpage-Potenzial
-5. Project Timeline & Steps
-6. SEO-Rankingkurve
-7. Website Preview
-8. Packages
-9. Gründer und Ansprechpartner
-
----
-
-## Digital Movement
-
-### Wir helfen Unternehmen seit 2018 zu mehr Wachstum.
-
-Seit 2018 helfen wir unseren Kunden, online sichtbar und gefunden zu werden, Kundenanfragen zu generieren und Umsätze zu steigern.
-
-### Zahlen, die Vertrauen schaffen
-
-| Kennzahl | Digital Movement |
-|---|---:|
-| Gegründet in Melbourne, AU | 2018 |
-| Betreute Kunden | 300+ |
-| 5-Sterne-Google-Bewertungen | 100+ |
-| Kundenbindungsrate | 95 % |
-
-### Kernleistungen
-
-- **Growth im Zentrum:** Alle Leistungen arbeiten zusammen, um Sichtbarkeit in qualifizierte Anfragen und messbares Wachstum zu übersetzen.
-- SEO
-- GEO / AI Search
-- Website Development
-- Ads
-- CRM
-- Automation & AI
-
-### Ausgewählte Kundenstimmen
-
-- **Ayham Muhrez, CEO & Founder · Azura Living:** „Von null auf Seite eins für ‚villa rental bali‘ in 6 Monaten — SEO ist nun ein wichtiger Sales-Kanal für uns geworden.“ [www.azuralivingbali.com](https://www.azuralivingbali.com/)
-- **Faisal Chauhan, Director · ADDRESSBALI:** „Unser Website-Relaunch und die Optimierung der Ads-Kampagnen auf Meta und Google haben die Qualität der Kundenanfragen wesentlich verbessert. Unser Sales-Team schließt seitdem mehr Verträge ab.“ [www.addressbali.com](https://www.addressbali.com/)
-- **Enting Man, Founder & Director · Cunos:** „Unsere professionelle Webseite ist für uns ein wichtiges Asset im Gespräch mit Neukunden und Leads. Sie ist an unser CRM angebunden und ein wichtiger Bestandteil unserer digitalen Sales-Strategie.“ [www.cunos.co.uk](https://www.cunos.co.uk/)
-
-### Google Reviews
-
-**5,0 · ★★★★★ · 102 Google Reviews**
-
-- **Jessica Purcell:** „Qualität, proaktive Zusammenarbeit und Ergebnisse wie versprochen.“
-- **Matthew Kang:** „Kompletter Website-Relaunch sowie starke Resultate aus SEO und Google Ads.“
-- **Clarity Essential Wellness:** „Beständigerer Traffic und mehr Verkäufe durch die SEO-Arbeit.“
-
-**Mehr Erfolgsnachweise:** [Testimonials, Success Stories, Reviews und Case Studies auf success.digitalmovement.uk ansehen](https://success.digitalmovement.uk/)
+1. Benzo SEO Analyse
+2. Status quo und Wettbewerb
+3. Landingpage-Potenzial
+4. Project Timeline & Steps
+5. SEO-Rankingkurve
+6. Website Preview
+7. Packages
+8. Gründer und Ansprechpartner
+9. Digital Movement
 
 ---
 
 ## Benzo SEO Analyse
 
-### Etablierte Marke. Fehlende Reichweite.
+### Etablierte Marke.  
+*Fehlende Reichweite.*
 
 Google rankt Benzo bereits. Die aktuelle Seitenstruktur macht aus diesem Vertrauen allerdings noch keine breite B2B-Neukundengewinnung.
 
@@ -331,6 +289,51 @@ Raoul führt Benzo durch Strategie, Freigaben, Umsetzung und Reporting. Damit gi
 ## Nächster Schritt
 
 Nach Auswahl des Pakets wird der Kick-off-Termin vereinbart. Im Workshop werden Zielgruppen, Leistungen, Liefergebiete und die Reihenfolge der wichtigsten Seiten verbindlich festgelegt.
+
+---
+
+## Digital Movement
+
+### Wir helfen Unternehmen seit 2018 zu mehr Wachstum.
+
+Seit 2018 helfen wir unseren Kunden, online sichtbar und gefunden zu werden, Kundenanfragen zu generieren und Umsätze zu steigern.
+
+### Zahlen, die Vertrauen schaffen
+
+| Kennzahl | Digital Movement |
+|---|---:|
+| Gegründet in Melbourne, AU | 2018 |
+| Betreute Kunden | 300+ |
+| 5-Sterne-Google-Bewertungen | 100+ |
+| Kundenbindungsrate | 95 % |
+
+### Kernleistungen
+
+- **Growth im Zentrum:** Alle Leistungen arbeiten zusammen, um Sichtbarkeit in qualifizierte Anfragen und messbares Wachstum zu übersetzen.
+- SEO
+- GEO / AI Search Optimisation
+- Website Development
+- Ads
+- CRM
+- Automation & AI
+
+### Ausgewählte Kundenstimmen
+
+- **Ayham Muhrez, CEO & Founder · Azura Living:** „Von null auf Seite eins für ‚villa rental bali‘ in 6 Monaten — SEO ist nun ein wichtiger Sales-Kanal für uns geworden.“ [www.azuralivingbali.com](https://www.azuralivingbali.com/)
+- **Faisal Chauhan, Director · ADDRESSBALI:** „Unser Website-Relaunch und die Optimierung der Ads-Kampagnen auf Meta und Google haben die Qualität der Kundenanfragen wesentlich verbessert. Unser Sales-Team schließt seitdem mehr Verträge ab.“ [www.addressbali.com](https://www.addressbali.com/)
+- **Enting Man, Founder & Director · Cunos:** „Unsere professionelle Webseite ist für uns ein wichtiges Asset im Gespräch mit Neukunden und Leads. Sie ist an unser CRM angebunden und ein wichtiger Bestandteil unserer digitalen Sales-Strategie.“ [www.cunos.co.uk](https://www.cunos.co.uk/)
+
+### Google Reviews
+
+**5,0 · ★★★★★ · 102 Google Reviews**
+
+- **Jessica Purcell:** „Qualität, proaktive Zusammenarbeit und Ergebnisse wie versprochen.“
+- **Matthew Kang:** „Kompletter Website-Relaunch sowie starke Resultate aus SEO und Google Ads.“
+- **Clarity Essential Wellness:** „Beständigerer Traffic und mehr Verkäufe durch die SEO-Arbeit.“
+
+**Mehr Erfolgsnachweise:** [Testimonials, Success Stories, Reviews und Case Studies auf success.digitalmovement.uk ansehen](https://success.digitalmovement.uk/)
+
+---
 
 ## Digital Movement Offices
 

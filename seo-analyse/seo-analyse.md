@@ -8,7 +8,8 @@
 - **Markt:** Deutschland mit lokaler Stärke in Berlin
 **Projektziel:** Eine neue Website und gezielte SEO-Seiten sollen mehr qualifizierte Anfragen von Gastronomie, Hotellerie und Fachhandel gewinnen.
 
-> **Kaufmännischer Hinweis:** Zuerst werden alle drei Standardpakete ohne Rabatt und ohne Website-Sonderkondition gezeigt. Für Benzo folgt darunter eine eigene Empfehlung: Growth mit 50 % Rabatt auf den Monatspreis und Website-Entwicklung für 299 EUR statt 11.999 EUR.
+> **Kaufmännischer Hinweis:** Die drei SEO-Pakete und das Website Design werden separat ausgewiesen.<br>
+> Für Benzo folgt darunter eine eigene Empfehlung: Growth mit 50 % Rabatt auf den Monatspreis und Website-Entwicklung für 299 EUR statt 11.999 EUR.
 
 ---
 
@@ -27,9 +28,9 @@ Eine neue Website, gezielte Seiten für Gastronomie, Hotellerie und Fachhandel, 
 
 ---
 
-## Content
+## Inhalt
 
-1. Benzo SEO Analyse
+1. Benzo SEO-Analyse
 2. High-Potential Keywords
 3. Project Timeline & Steps
 4. SEO-Rankingkurve
@@ -40,93 +41,64 @@ Eine neue Website, gezielte Seiten für Gastronomie, Hotellerie und Fachhandel, 
 
 ---
 
-## 01 — Benzo SEO Analyse
+## 01 — Benzo SEO-Analyse
 
-### Etablierte Marke.
-*Fehlende Reichweite.*
+### Benzo ist als Marke etabliert.<br>
+*Es fehlen Reichweite und Service Pages.*
 
-Google rankt Benzo bereits. Die aktuelle Seitenstruktur macht aus diesem Vertrauen allerdings noch keine breite B2B-Neukundengewinnung.
+Benzo wird vor allem von Menschen gefunden, die die Marke bereits kennen.<br>
+Mit nur vier URLs fehlen Google klare Seiten für Leistungen, Sortimente und B2B-Zielgruppen.
 
-### 01 — Executive Summary
+### Die Wachstumsbremse
 
-Benzo rankt für einzelne Suchbegriffe bereits auf Seite 1 bei Google. Viele weitere Rankings enthalten jedoch den Markennamen „Benzo“ – diese Suchenden kennen das Unternehmen also bereits. Hier besitzt Benzo Ausbauchancen für weitere, markenunabhängige Suchbegriffe.
+**97 % Marken-Traffic.**<br>
+**Nur 3 % neue Nachfrage.**
 
-#### Details
-
-Benzo rankt bereits auf **Position 5 für „italienischer Großhandel Berlin“**, Position 9 für „italienische Lebensmittel Berlin“ und Position 10 für „italienische Feinkost Berlin“.
-
-Die Reichweite hängt jedoch fast vollständig von Menschen ab, die Benzo bereits kennen. Die neue Website sollte B2B-Zielgruppen, Sortimente, Liefergebiete und Services jeweils über eigene Seiten ansprechen.
-
-**Strategische Empfehlung:** B2B zuerst, Privatkunden klar trennen, Shop und Hauptdomain systematisch verbinden und das technische Fundament bereinigen.
-
-### 02 — SEO-Erst-Analyse vom 13. Juli 2026
+Die Domain hat bereits Vertrauen.<br>
+Es fehlen konkrete Service Pages für die Suchanfragen neuer B2B-Kunden.
 
 | Kennzahl | Ergebnis |
 |---|---:|
 | Organische Keywords | 75 |
-| Geschätzter Marken-Traffic | 97 % |
 | URLs in der Sitemap | 4 |
+| Technische Struktur | 3 H1 und kein Schema Markup |
 
-![Semrush Domain Overview für benzo-berlin.de](assets/semrush-domain-overview-benzo.png)
+**Sichtbarkeitsmix:** 97 % Markensuchen gegenüber nur rund 3 % generischer Nachfrage.
 
-*Domain Overview: 75 organische Keywords, rund 97 % geschätzter Marken-Traffic und nur vier URLs in der Sitemap.*
+### Top-Rankings ohne Markenname
 
-![Semrush Organic Rankings für benzo-berlin.de](assets/semrush-organic-rankings-benzo.png)
-
-*Organic Rankings: Die Sichtbarkeit wächst, bleibt aber stark von wenigen Marken- und lokalen Begriffen abhängig.*
-
-### 03 — Status quo
-
-Vier markenunabhängige Keywords stehen bereits auf oder direkt vor Seite 1. Rund 97 % des geschätzten organischen Traffics entstehen dennoch über Markensuchen. Benzo wird also vor allem von Menschen gefunden, die das Unternehmen bereits kennen.
-
-| Markenunabhängiger Suchbegriff | Position | Suchen/Monat |
+| Suchbegriff | Google-Position | Suchen pro Monat |
 |---|---:|---:|
 | italienischer Großhandel Berlin | 5 | 140 |
 | italienische Lebensmittel Berlin | 9 | 210 |
 | italienische Feinkost Berlin | 10 | 210 |
 | italienischer Supermarkt Berlin | 11 | 1.000 |
 
-**Sichtbarkeitsmix:** Rund 97 % Markensuchen gegenüber nur rund 3 % generischer Nachfrage. Die Marke wird gefunden; neue B2B-Zielgruppen werden bislang kaum erschlossen.
+Drei Begriffe stehen bereits auf Seite 1.<br>
+„Italienischer Supermarkt Berlin“ liegt direkt davor auf Position 11.<br>
+Neue Service Pages können diese Basis ausbauen und zusätzliche B2B-Suchen erschließen.
 
-| Bereich | Aktueller Stand | Einordnung |
-|---|---|---|
-| Markenunabhängige Sichtbarkeit | 4 Keywords auf oder direkt vor Seite 1 | Die Positionen 5, 9, 10 und 11 bilden die direkte Wachstumsbasis |
-| Google-SERP | Position 5 lokal | Bundesweite B2B-Suchen liegen meist noch außerhalb der Top 10 |
-| Sitemap | Nur 4 URLs | Leistungs-, Sortiment- und Lieferseiten fehlen fast vollständig |
-| Technik | 3 H1 + kein Schema | Metadaten und strukturierte Signale sind nicht sauber aufgebaut |
+### Datengrundlage · 13. Juli 2026
 
-### 04 — Fazit SEO-Audit
+Die Semrush-Daten bestätigen die schmale Sichtbarkeit.
 
-Die Domain funktioniert. Inhalt, Struktur und technische Signale bremsen das Wachstum.
+<details>
+<summary>Originaldaten aus Semrush ansehen</summary>
 
-1. **Zu wenige Zielseiten:** Google kann Sortimente, Zielgruppen und Liefergebiete kaum einzeln bewerten.
-2. **Unklare Seitensignale:** Meta Description, H1-Struktur und Schema brauchen eine saubere Neuordnung.
-3. **Geteilte Kundenwege:** B2B, Privatkunden und Shop benötigen klare, miteinander verbundene Pfade.
+![Semrush Domain Overview für benzo-berlin.de](assets/semrush-domain-overview-benzo.png)
 
-#### Technische Findings
+*Domain Overview: 75 organische Keywords und 486 geschätzte Besuche pro Monat.*
 
-- Keine Meta Description auf der Startseite
-- Drei konkurrierende H1-Überschriften
-- Keine strukturierten Daten
-- Eine interne Elementor-Seite ist indexierbar
-- Website und Shop liegen auf getrennten Domains
-- Platzhalterbewertung und sichtbare Textfehler schwächen Vertrauen
+![Semrush Organic Rankings für benzo-berlin.de](assets/semrush-organic-rankings-benzo.png)
 
-### 05 — Strategieempfehlung
+*Organic Rankings: Nur wenige der 75 Rankings liegen in den Top 10.*
 
-Fünf Wachstumshebel bringen Benzo von Markensuchen zu neuen B2B-Anfragen:
+</details>
 
-1. **Neue B2B-Kunden vor der Markensuche erreichen:** Benzo soll auch dann gefunden werden, wenn Gastronomie, Hotellerie und Fachhandel den Namen noch nicht kennen.
-2. **Bestehende Berlin-Rankings in die Top 3 bringen:** Die bestehenden Positionen 5, 9 und 10 werden zuerst ausgebaut, weil hier der schnellste Sichtbarkeitsgewinn liegt.
-3. **15 umsatznahe Landingpages aufbauen:** Priorität erhalten Suchen nach italienischem Großhandel, Lebensmitteln, Feinkost, Gastronomie und Sortimenten.
-4. **Mehr Besucher zu Gewerbekunden machen:** Jede Einstiegsseite führt klar zu Sortiment, Liefergebiet, Beratung und einer einfachen B2B-Kontaktanfrage.
-5. **Rankings und Anfragen monatlich steigern:** Seiten werden anhand von Positionen, Klicks, Reichweite und tatsächlichen Leads laufend verbessert.
+### Wettbewerbsanalyse
 
-**Technische Grundlage:** Sitemap, H1-Struktur, Metadaten, Schema und die Verbindung zum Shop werden im Relaunch mit umgesetzt.
-
-### 06 — Wettbewerbsanalyse
-
-Fresco ist der direkte Wettbewerber. Centro Italia zeigt die mögliche Reichweite.
+Fresco ist der direkte Wettbewerber.<br>
+Centro Italia zeigt die mögliche Reichweite.
 
 | Domain | Organische Keywords | Geschätzter Traffic/Monat | Einordnung |
 |---|---:|---:|---|
@@ -146,6 +118,9 @@ Fresco ist der direkte Wettbewerber. Centro Italia zeigt die mögliche Reichweit
 | italienische Feinkost online | Nicht Top 10 | Centro Italia, Gustini, Viani, Italia-Import |
 | italienische Lebensmittel online | Nicht Top 10 | Centro Italia, Gustini, Italia-Import |
 
+Die Lücke ist klar:<br>
+Benzo braucht eigene Service Pages für die Suchbegriffe, die Wettbewerber bereits besetzen.
+
 ---
 
 ## 02 — High-Potential Keywords
@@ -154,27 +129,35 @@ Fresco ist der direkte Wettbewerber. Centro Italia zeigt die mögliche Reichweit
 
 Unsere SEO-Analyse hat eine Liste von Suchbegriffen ergeben, die für Benzo großes Potenzial signalisieren.
 
-**Unser Vorgehen:** Im ersten Schritt haben wir Suchvolumen, lokale Relevanz und Nähe zum B2B-Angebot geprüft. Anschließend wurden eng miteinander verwandte Suchbegriffe zu klar abgegrenzten Themen gebündelt. Auf dieser Basis schlagen wir zunächst sieben neue SEO-Landingpages vor. Acht ergänzende Seiten vervollständigen das Growth-Paket.
+**Unser Vorgehen:** Im ersten Schritt haben wir Suchvolumen, lokale Relevanz und Nähe zum B2B-Angebot geprüft.<br>
+Anschließend wurden eng miteinander verwandte Suchbegriffe zu klar abgegrenzten Themen gebündelt.<br>
+Auf dieser Basis schlagen wir zunächst sieben neue SEO-Landingpages vor.<br>
+Acht ergänzende Seiten vervollständigen das Growth-Paket.
+
+> **Strategischer Vorsprung geschützt:** Zwei Empfehlungen sind vollständig sichtbar.<br>
+> 13 weitere Seiten werden nach Projektstart im SEO Page Guide freigegeben.
 
 | Empfohlene Landingpage | Suchbegriffe · Volumen | Priorität |
 |---|---|---|
 | Italienischer Supermarkt Berlin · `/italienischer-supermarkt-berlin/` | `italienischer supermarkt berlin` · 1.000 / Monat | A · hoher Hebel |
 | Italienische Lebensmittel Großhandel · `/italienische-lebensmittel-grosshandel/` | `italienische lebensmittel großhandel` · 480 / Monat; `großhandel italienische lebensmittel` · 210 / Monat | A · B2B-Kernseite |
-| Italienischer Großhandel Berlin · `/italienischer-grosshandel-berlin/` | `italienischer großhandel berlin` · 140 / Monat | A · Quick Win |
-| Italienische Lebensmittel Berlin · `/italienische-lebensmittel-berlin/` | `italienische lebensmittel berlin` · 210 / Monat; `berlin italienische lebensmittel` · 170 / Monat | A · Quick Win |
-| Italienische Feinkost Berlin · `/italienische-feinkost-berlin/` | `italienische feinkost berlin` · 210 / Monat; `feinkostladen berlin` · 170 / Monat; `italienische spezialitäten berlin` · 90 / Monat | A · Quick Win |
-| Italienischer Großhändler · `/italienischer-grosshaendler/` | `italienischer großhändler` · 170 / Monat | B · Aufbau |
-| Italian Supermarket Berlin · `/en/italian-supermarket-berlin/` | `italian supermarket berlin` · 90 / Monat | B · Zusatzmarkt |
-| Gastronomie-Großhandel · `/gastronomie-grosshandel/` | `gastronomie großhandel` · im SEO Page Guide finalisieren | B · Zielgruppe |
-| Hotel-Lebensmittel-Großhandel · `/lebensmittel-grosshandel-hotel/` | `lebensmittel großhandel hotel` · im SEO Page Guide finalisieren | B · Zielgruppe |
-| Italienische Feinkost Großhandel · `/italienische-feinkost-grosshandel/` | `italienische feinkost großhandel` · im SEO Page Guide finalisieren | B · Sortiment |
-| Italienische Lebensmittel Lieferung · `/italienische-lebensmittel-lieferung/` | `italienische lebensmittel lieferung` · im SEO Page Guide finalisieren | B · Service |
-| Italienische Lebensmittel für Gastronomie · `/italienische-lebensmittel-gastronomie/` | `italienische lebensmittel gastronomie` · im SEO Page Guide finalisieren | B · B2B |
-| Wein-Großhandel Gastronomie · `/wein-grosshandel-gastronomie/` | `wein großhandel gastronomie` · im SEO Page Guide finalisieren | B · Sortiment |
-| Pasta-Großhandel · `/pasta-grosshandel/` | `pasta großhandel` · im SEO Page Guide finalisieren | B · Sortiment |
-| Italienischer Getränke-Großhandel · `/italienische-getraenke-grosshandel/` | `italienische getränke großhandel` · im SEO Page Guide finalisieren | B · Sortiment |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · 140 / Monat | A · Quick Win |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · 210 + 170 / Monat | A · Quick Win |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · 210 + 170 + 90 / Monat | A · Quick Win |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · 170 / Monat | B · Aufbau |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · 90 / Monat | B · Zusatzmarkt |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · Volumen im SEO Page Guide | B · Zielgruppe |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · Volumen im SEO Page Guide | B · Zielgruppe |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · Volumen im SEO Page Guide | B · Sortiment |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · Volumen im SEO Page Guide | B · Service |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · Volumen im SEO Page Guide | B · B2B |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · Volumen im SEO Page Guide | B · Sortiment |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · Volumen im SEO Page Guide | B · Sortiment |
+| █████████████████ · Freigabe nach Projektstart | █████████████ · Volumen im SEO Page Guide | B · Sortiment |
 
-**Datenhinweis:** Semrush Keyword Overview, Deutschland, Desktop, 13. Juli 2026. Volumen sind geschätzte monatliche Suchen. Die Singularform „italienische spezialität berlin“ hat keine belastbaren Semrush-Daten und wurde zur nachgefragten Pluralform normalisiert. Die acht Growth-Erweiterungen werden im SEO Page Guide abschließend anhand der Suchdaten validiert.
+**Datenhinweis:** Semrush Keyword Overview, Deutschland, Desktop, 13. Juli 2026.<br>
+Volumen sind geschätzte monatliche Suchen.<br>
+Die 13 geschützten Empfehlungen werden nach Projektstart im SEO Page Guide vollständig freigegeben und abschließend validiert.
 
 ---
 
@@ -182,7 +165,9 @@ Unsere SEO-Analyse hat eine Liste von Suchbegriffen ergeben, die für Benzo gro�
 
 ### Unser etablierter Projektablauf in wenigen Schritten.
 
-Die SEO-Analyse ist bereits geliefert. Nach der Vertragsfreigabe folgen Strategie, Website und SEO-Seiten. Die erste Rechnung stellen wir erst nach dem Launch.
+Die SEO-Analyse ist bereits geliefert.<br>
+Nach der Vertragsfreigabe folgen Strategie, Website und SEO-Seiten.<br>
+Die erste Rechnung stellen wir erst nach dem Launch.
 
 1. **Erst-Gespräch · abgeschlossen:** Ausgangslage, Ziele und Projektumfang wurden aufgenommen.
 2. **SEO-Erst-Analyse · abgeschlossen:** SEO Performance Status quo, SEO-Potenzial, Wettbewerberanalyse sowie High-Potential-Suchbegriffe und Landingpage-Vorschläge.
@@ -194,20 +179,24 @@ Die SEO-Analyse ist bereits geliefert. Nach der Vertragsfreigabe folgen Strategi
 8. **Texte für die SEO-Seiten · Woche 3–6:** Die freigegebenen Seiten werden in Benzo-Sprache geschrieben und in das Design übertragen. **Freigabe durch Benzo.**
 9. **Launch und Google-Einreichung:** Website und vereinbarte SEO-Seiten gehen live. **Erst danach folgt die erste Rechnung und der sechsmonatige Zyklus beginnt.**
 10. **Monate 1–6 · monatliche Optimierung und Reporting:** Rankings, Indexierung, Reichweite, Seitenleistung und Anfragen werden ausgewertet und priorisierte Seiten verbessert.
-11. **Monate 7–12 · bei Fortführung:** Deutlicher Performance-Anstieg, kontinuierliche Optimierung und Reporting. Diese Phase wird nach der sechsmonatigen Erstlaufzeit separat vereinbart.
+11. **Monate 7–12 · bei Fortführung:** Deutlicher Performance-Anstieg, kontinuierliche Optimierung und Reporting.<br>
+    Diese Phase wird nach der sechsmonatigen Erstlaufzeit separat vereinbart.
 
 ---
 
 ## 04 — SEO-Rankingkurve
 
-Die folgende Kurve übernimmt das qualitative 12-Monats-Modell aus dem CEx-Proposal. Benzo besitzt bereits eine etablierte Domain und erste lokale Rankings. Dadurch kann die Startphase günstiger verlaufen als bei einer komplett neuen Website. Konkrete Positionen oder Anfragezahlen bleiben von Wettbewerb, Freigabegeschwindigkeit, Inhalt und Google abhängig.
+Die folgende Kurve übernimmt das qualitative 12-Monats-Modell aus dem CEx-Proposal.<br>
+Benzo besitzt bereits eine etablierte Domain und erste lokale Rankings.<br>
+Dadurch kann die Startphase günstiger verlaufen als bei einer komplett neuen Website.<br>
+Konkrete Positionen oder Anfragezahlen bleiben von Wettbewerb, Freigabegeschwindigkeit, Inhalt und Google abhängig.
 
 | Phase | Zeitraum | Erwartete Entwicklung |
 |---|---|---|
-| 01 · Fundament | Monate 1–3 | Google verarbeitet die neue Struktur, technische Fehler werden bereinigt und neue Seiten werden indexiert. Bestehende lokale Rankings können erste Verbesserungen zeigen. |
-| 02 · Wachstum | Monate 3–6 | Erste neue Rankings erscheinen. Seiten nahe an den heutigen Top-10-Positionen haben die beste Chance auf frühe Sichtbarkeitsgewinne. |
-| 03 · Performance | Monate 6–12 | Mehr Seiten bewegen sich in Richtung Seite eins. Organische Reichweite und qualifizierte B2B-Anfragen können stabiler wachsen. |
-| 04 · Top Performance | Monat 12+ | Eine wachsende Zahl starker Seiten kann Top-10-Positionen halten. Neue Inhalte profitieren von einer stärkeren Domain. |
+| 01 · Fundament | Monate 1–3 | Google verarbeitet die neue Struktur, technische Fehler werden bereinigt und neue Seiten werden indexiert.<br>Bestehende lokale Rankings können erste Verbesserungen zeigen. |
+| 02 · Wachstum | Monate 3–6 | Erste neue Rankings erscheinen.<br>Seiten nahe an den heutigen Top-10-Positionen haben die beste Chance auf frühe Sichtbarkeitsgewinne. |
+| 03 · Performance | Monate 6–12 | Mehr Seiten bewegen sich in Richtung Seite eins.<br>Organische Reichweite und qualifizierte B2B-Anfragen können stabiler wachsen. |
+| 04 · Top Performance | Monat 12+ | Eine wachsende Zahl starker Seiten kann Top-10-Positionen halten.<br>Neue Inhalte profitieren von einer stärkeren Domain. |
 
 ---
 
@@ -217,49 +206,34 @@ Die interaktive Vorschau zeigt die empfohlene visuelle Richtung und das responsi
 
 - **Desktop und Mobil:** [Benzo Website Preview öffnen](http://127.0.0.1:4197/v2/)
 - **Vorschau-Status:** Designrichtung; finale Texte, Seitenumfang und Conversion-Wege werden im Kick-off und SEO Page Guide abgestimmt.
-- **Technischer Hinweis:** Die Vorschau läuft lokal auf Port 4197. Im HTML-Proposal ist sie gleichzeitig in einem Desktop-Browserrahmen und einem mobilen Geräterahmen eingebettet.
+- **Technischer Hinweis:** Die Vorschau läuft lokal auf Port 4197.<br>Im HTML-Proposal ist sie gleichzeitig in einem Desktop-Browserrahmen und einem mobilen Geräterahmen eingebettet.
 
 ---
 
 ## 06 — Packages
 
-### SEO & High-End Website Development
+### Drei SEO-Pakete.<br>
+*Eine klare Entscheidung.*
 
-| Leistung | Paket 1 · Basic | Paket 2 · Growth | Paket 3 · Max |
-|---|:---:|:---:|:---:|
-| Monatspreis | **1.199 EUR** | **2.498 EUR** | **4.898 EUR** |
-| Mindestvertragslaufzeit | 6 Monate | 6 Monate | 6 Monate |
-| Website-Redesign inklusive Konversionsoptimierung | ✓ | ✓ | ✓ |
-| Individuelles Website Design und Entwicklung | ✓ | ✓ | ✓ |
-| Responsive Desktop- und Mobilumsetzung | ✓ | ✓ | ✓ |
-| Priorisierte SEO-Seiten | **5** | **15** | **50** |
-| SEO Page Guide und Freigaben | ✓ | ✓ | ✓ |
-| Text, Design und Umsetzung | ✓ | ✓ | ✓ |
-| Google-Einreichung | ✓ | ✓ | ✓ |
-| Technische Betreuung, Plug-ins, Launch, Monitoring und Wartung | ✓ | ✓ | ✓ |
-| Monatliche Optimierung und Performance-Report | ✓ | ✓ | ✓ |
-| B2B- und Sortimentsabdeckung | Basis | Fokussiert | Breit |
-| **Gesamtwert über 6 Monate inklusive Website** | **19.193 EUR** | **26.987 EUR** | **41.387 EUR** |
+SEO und Website Design werden separat und transparent ausgewiesen.
 
-#### Paket 1 · Basic
+| SEO-Paket | Priorisierte SEO-Seiten | Preis pro Monat | SEO-Gesamtwert · 6 Monate |
+|---|---:|---:|---:|
+| **Paket 1 · Basic** | 5 | **1.199 EUR** | **7.194 EUR** |
+| **Paket 2 · Growth** | 15 | **2.498 EUR** | **14.988 EUR** |
+| **Paket 3 · Max** | 50 | **4.898 EUR** | **29.388 EUR** |
 
-- **1.199 EUR / Monat · sechs Monate Mindestvertragslaufzeit**
-- Website-Redesign inklusive Optimierung der Konversion von Website-Besuchern zu Kundenanfragen
-- 5 SEO-Seiten, monatliche Optimierung und Reporting
-- **Website Design & Development: 11.999 EUR einmalig**
-- Gesamtkosten: **19.193 EUR** = 7.194 EUR SEO + 11.999 EUR Website Development
+Alle SEO-Pakete enthalten Copy, Design und Umsetzung der vereinbarten Seiten.<br>
+Alle SEO-Pakete enthalten außerdem monatliche Optimierung und Performance-Reporting.<br>
+Die Mindestvertragslaufzeit beträgt sechs Monate.
 
-#### Paket 2 · Growth
+### Separates Modul · High-End Website Design & Development
 
-- **2.498 EUR / Monat · sechs Monate Mindestvertragslaufzeit**
-- Alles aus Basic, erweitert auf 15 Seiten mit dem höchsten Potenzial
-- Gesamtwert: **26.987 EUR** = 14.988 EUR SEO + 11.999 EUR Website Development
-
-#### Paket 3 · Max
-
-- **4.898 EUR / Monat · sechs Monate Mindestvertragslaufzeit**
-- Alles aus Growth, erweitert auf 50 Seiten und breite Marktabdeckung
-- Gesamtwert: **41.387 EUR** = 29.388 EUR SEO + 11.999 EUR Website Development
+- **11.999 EUR einmalig**
+- Individuelles Design
+- Responsive Umsetzung für Desktop und Mobil
+- Konversionsoptimierung
+- Technischer Launch
 
 ### Unsere Empfehlung für Benzo · Growth-Sonderkondition
 
@@ -273,11 +247,12 @@ Für den konkreten Fall von Benzo empfehlen wir **Paket 2 Growth**.
 - **Website-Entwicklung regulär:** 11.999 EUR
 - **Exklusiver Website-Rabatt mit Paket 2:** **jetzt nur 299 EUR einmalig**
 - **Sechs Monate Growth:** 7.494 EUR
-**Gesamtinvestition inklusive Website-Entwicklung:** **7.793 EUR**
+- **Gesamtinvestition inklusive Website-Entwicklung:** **7.793 EUR**
 
 Die Empfehlung verbindet 15 priorisierte Landingpages, Copy, Design, technische Umsetzung, Google-Einreichung, monatliche Optimierung und Performance-Reporting.
 
-> Die Benzo-Sonderkondition gilt bis einschließlich Freitag, 24. Juli 2026, und nur für das empfohlene Paket 2 mit sechsmonatiger Laufzeit. Preise verstehen sich vorbehaltlich Umsatzsteuerbehandlung, Zahlungsziel und finaler Leistungsabgrenzung im Vertrag.
+> Die Benzo-Sonderkondition gilt bis einschließlich Freitag, 24. Juli 2026, und nur für das empfohlene Paket 2 mit sechsmonatiger Laufzeit.<br>
+> Preise verstehen sich vorbehaltlich Umsatzsteuerbehandlung, Zahlungsziel und finaler Leistungsabgrenzung im Vertrag.
 
 ---
 
@@ -299,9 +274,6 @@ Martey verantwortet die strategische Ausrichtung und die digitale Wachstumsarchi
 
 Raoul koordiniert Strategie, Freigaben, Umsetzung und Reporting als zentraler Ansprechpartner.
 
-- WhatsApp: [+49 176 82360647](https://wa.me/4917682360647)
-- Telefon: [+49 176 23296439](tel:+4917623296439)
-- E-Mail: [Alex@digitalmovement.uk](mailto:Alex@digitalmovement.uk)
 - [Raoul Müller auf LinkedIn](https://www.linkedin.com/in/raoulmueller)
 
 ### Fabian Pianka
@@ -318,11 +290,20 @@ Dean steuert SEO-Struktur, technische Qualität, Umsetzung und laufende Optimier
 
 - [Dean Bosilkovski auf LinkedIn](https://www.linkedin.com/in/deanbosilkovski/)
 
+### Ihr Account Manager
+
+**Raoul (Alex) Müller**
+
+- WhatsApp: [+49 176 23296439](https://wa.me/4917623296439)
+- Telefon: [+49 176 82360647](tel:+4917682360647)
+- E-Mail: [alex@digitalmovement.uk](mailto:alex@digitalmovement.uk)
+
 ---
 
 ### Nächster Schritt
 
-Nach Auswahl des Pakets wird der Kick-off-Termin vereinbart. Im Workshop werden Zielgruppen, Leistungen, Liefergebiete und die Reihenfolge der wichtigsten Seiten verbindlich festgelegt.
+Nach Auswahl des Pakets wird der Kick-off-Termin vereinbart.<br>
+Im Workshop werden Zielgruppen, Leistungen, Liefergebiete und die Reihenfolge der wichtigsten Seiten verbindlich festgelegt.
 
 ---
 
@@ -354,8 +335,8 @@ Seit 2018 helfen wir unseren Kunden, online sichtbar und gefunden zu werden, Kun
 ### Ausgewählte Kundenstimmen
 
 - **Ayham Muhrez, CEO & Founder · Azura Living:** „Von null auf Seite eins für ‚villa rental bali‘ in 6 Monaten — SEO ist nun ein wichtiger Sales-Kanal für uns geworden.“ [www.azuralivingbali.com](https://www.azuralivingbali.com/)
-- **Faisal Chauhan, Director · ADDRESSBALI:** „Unser Website-Relaunch und die Optimierung der Ads-Kampagnen auf Meta und Google haben die Qualität der Kundenanfragen wesentlich verbessert. Unser Sales-Team schließt seitdem mehr Verträge ab.“ [www.addressbali.com](https://www.addressbali.com/)
-- **Enting Man, Founder & Director · Cunos:** „Unsere professionelle Webseite ist für uns ein wichtiges Asset im Gespräch mit Neukunden und Leads. Sie ist an unser CRM angebunden und ein wichtiger Bestandteil unserer digitalen Sales-Strategie.“ [www.cunos.co.uk](https://www.cunos.co.uk/)
+- **Faisal Chauhan, Director · ADDRESSBALI:** „Unser Website-Relaunch und die Optimierung der Ads-Kampagnen auf Meta und Google haben die Qualität der Kundenanfragen wesentlich verbessert.<br>Unser Sales-Team schließt seitdem mehr Verträge ab.“ [www.addressbali.com](https://www.addressbali.com/)
+- **Enting Man, Founder & Director · Cunos:** „Unsere professionelle Webseite ist für uns ein wichtiges Asset im Gespräch mit Neukunden und Leads.<br>Sie ist an unser CRM angebunden und ein wichtiger Bestandteil unserer digitalen Sales-Strategie.“ [www.cunos.co.uk](https://www.cunos.co.uk/)
 
 ### Google Reviews
 
@@ -408,4 +389,6 @@ Seit 2018 helfen wir unseren Kunden, online sichtbar und gefunden zu werden, Kun
 - Öffentliche Website- und Technikprüfung von `benzo-berlin.de`, `benzo-shop.de` und den genannten Wettbewerbern
 - Digital Movement Success Stories, Testimonials und Google Reviews auf `success.digitalmovement.uk`; abgerufen am 13. Juli 2026
 
-Semrush-Werte sind Schätzungen und keine tatsächlichen Analytics-, Umsatz- oder Lead-Daten. Rankings verändern sich laufend. Die Rankingkurve beschreibt eine realistische qualitative Entwicklung und ist keine Garantie für konkrete Positionen oder Anfragen.
+Semrush-Werte sind Schätzungen und keine tatsächlichen Analytics-, Umsatz- oder Lead-Daten.<br>
+Rankings verändern sich laufend.<br>
+Die Rankingkurve beschreibt eine realistische qualitative Entwicklung und ist keine Garantie für konkrete Positionen oder Anfragen.

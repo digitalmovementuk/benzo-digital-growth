@@ -352,8 +352,6 @@ Nach Auswahl des Pakets wird der Kick-off-Termin vereinbart. Im Workshop werden 
 
 - Potsdamer Platz 1, 10117 Berlin
 - [+49 (0) 176 8236064](tel:+491768236064)
-- [office@digitalmovement.de](mailto:office@digitalmovement.de)
-- [digitalmovement.de](https://www.digitalmovement.de)
 
 ### Melbourne HQ · Australia
 

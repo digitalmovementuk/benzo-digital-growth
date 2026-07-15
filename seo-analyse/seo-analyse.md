@@ -282,7 +282,7 @@ Nicht enthalten sind Shop-Neubau, Produktmigration, Fotografie, Hosting, Domain,
 - Sechs Monate SEO: 7.494 EUR
 - **Gesamtpreis für sechs Monate SEO + Website-Modul: 7.793 EUR**
 
-> **Frist:** Die Sonderkondition gilt, wenn beide Parteien den Vertrag spätestens am Freitag, 24. Juli 2026 unterschrieben haben.
+> **Frist:** Die Sonderkondition gilt, wenn beide Parteien den Vertrag spätestens am Freitag, 31. Juli 2026 unterschrieben haben.
 
 Beim Launch werden 299 EUR für das Website-Modul und die erste SEO-Rate von 1.249 EUR berechnet.<br>
 Fünf weitere SEO-Raten folgen monatlich.<br>

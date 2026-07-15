@@ -7,7 +7,7 @@
 - **Website:** [benzo-berlin.de](https://www.benzo-berlin.de/)
 - **Markt:** Deutschland · Schwerpunkt Berlin
 - **Zielgruppen:** Gastronomie · Hotellerie · Fachhandel
-- **Projekt:** Website-Redesign + SEO + AI Search
+- **Projekt:** Website-Redesign + SEO · SEO AI+ optional
 
 **Projektziel:** Eine neue Website und gezielte SEO-Seiten sollen mehr qualifizierte B2B-Anfragen gewinnen.
 
@@ -19,7 +19,8 @@
 
 Eine neue Website.<br>
 Gezielte SEO-Seiten für Gastronomie, Hotellerie und Fachhandel.<br>
-Monatliche SEO-Optimierung, AI-Sichtbarkeitsanalyse und Performance-Reports.
+Monatliche SEO-Optimierung und Performance-Reports.<br>
+SEO AI+ ist als separates Add-on verfügbar.
 
 ---
 
@@ -195,7 +196,8 @@ Die erste Rechnung stellen wir erst beim Launch.
 > **Welcher Ablauf gilt?**<br>
 > Mit Website-Modul entsteht das Website-Redesign gemeinsam mit den neuen SEO-Seiten.<br>
 > Ohne Website-Modul integrieren wir die SEO-Seiten in die bestehende Website.<br>
-> Die Benzo-Empfehlung in Abschnitt 08 umfasst Website, SEO und SEO AI+.
+> Die Benzo-Empfehlung in Abschnitt 08 umfasst Website und SEO.<br>
+> SEO AI+ kann separat hinzugebucht werden.
 
 1. **Erst-Gespräch · abgeschlossen:** Ausgangslage, Ziele und Projektumfang wurden aufgenommen.
 2. **SEO-Erst-Analyse · abgeschlossen:** SEO-Status, Potenzial, Wettbewerb und Vorschläge für neue SEO-Seiten wurden analysiert.
@@ -206,7 +208,7 @@ Die erste Rechnung stellen wir erst beim Launch.
 7. **Website-Redesign & Entwicklung · Woche 2–4 · mit Website-Modul:** UX/UI, Navigation, Seitentypen, Kontaktwege und responsive Entwicklung. **Freigabe durch Benzo.**
 8. **Texte für die SEO-Seiten · Woche 3–6:** Die freigegebenen Seiten werden geschrieben und umgesetzt. **Freigabe durch Benzo.**
 9. **Launch und Google-Einreichung:** Alle gebuchten SEO-Seiten gehen live.<br>Das Website-Modul geht gleichzeitig live, sofern es beauftragt wurde.<br>Beim Launch werden die einmalige Website-Rechnung und die erste von sechs SEO-Monatsrechnungen gestellt.
-10. **Monate 1–6 · enthalten:** Monatliche Optimierung und Reporting.<br>Mit SEO AI+ fließen zusätzlich Markennennungen, Zitationen, Wettbewerber und AI-Sichtbarkeit ein.<br>Die sechsmonatige SEO-Laufzeit beginnt mit dem Launch.
+10. **Monate 1–6 · enthalten:** Monatliche Optimierung und Reporting.<br>Bei separater Buchung von SEO AI+ fließen zusätzlich Markennennungen, Zitationen, Wettbewerber und AI-Sichtbarkeit ein.<br>Die sechsmonatige SEO-Laufzeit beginnt mit dem Launch.
 11. **Ab Monat 7 · nicht enthalten:** Eine Fortführung benötigt eine separate schriftliche Vereinbarung.
 
 **Zeitplan-Annahme:** Woche 1 beginnt mit dem Kick-off.<br>
@@ -304,20 +306,17 @@ Enthalten sind wöchentliche Sichtbarkeitsanalysen in ChatGPT, Gemini und Perple
 - Rabatt auf den monatlichen SEO-Preis: **50 %**
 - Enthalten: **20 neue SEO-Seiten** plus monatliche Optimierung und Reporting
 - Benzo-Vorteil: **5 zusätzliche Seiten** gegenüber dem regulären Growth-Paket
-- SEO AI+ regulär: 799 EUR/Monat
-- SEO AI+ für Benzo: **0 EUR/Monat für sechs Monate**
-- Erlassener SEO-AI+-Retainer über sechs Monate: **4.794 EUR**
 - Website-Modul regulär: 11.999 EUR
 - Website-Modul mit Sonderkondition: **299 EUR einmalig**
 - Leistungsumfang des Website-Moduls: identisch; nur der Preis ist reduziert
 - Sechs Monate SEO: 7.494 EUR
-- **Gesamtpreis für sechs Monate SEO + Website-Modul + SEO AI+: 7.793 EUR**
+- **Gesamtpreis für sechs Monate SEO + Website-Modul: 7.793 EUR**
 
 > **Frist:** Die Sonderkondition gilt, wenn beide Parteien den Vertrag spätestens am Freitag, 31. Juli 2026 unterschrieben haben.
 
 Beim Launch werden 299 EUR für das Website-Modul und die erste SEO-Rate von 1.249 EUR berechnet.<br>
 Fünf weitere SEO-Raten folgen monatlich.<br>
-SEO AI+ ist während der sechsmonatigen SEO-Laufzeit ohne Aufpreis enthalten.<br>
+SEO AI+ ist ein separates Add-on und nicht im Benzo-Gesamtpreis enthalten.<br>
 Monate 7–12 sind nicht enthalten und erfordern eine separate schriftliche Vereinbarung.<br>
 Alle Preise sind Nettopreise.<br>
 Umsatzsteuer kommt nur hinzu, soweit sie gesetzlich geschuldet ist.

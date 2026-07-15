@@ -59,7 +59,7 @@ Die dazugehörigen Seitendetails werden mit den übrigen geschützten Empfehlung
 **Empfohlene Umsetzung:** 20 neue SEO-Seiten, sechs Monate Optimierung und Reporting sowie eine Website, die für B2B-Anfragen entwickelt wird.<br>
 Die genannten Positionen gehören heute der bestehenden Startseite.<br>
 Die neuen SEO-Seiten existieren noch nicht.<br>
-Rankings, Website-Besuche und Anfragen werden nicht garantiert.
+Die Seiten werden monatlich ausgewertet und anhand ihrer tatsächlichen Leistung optimiert.
 
 ---
 
@@ -152,7 +152,7 @@ Die Benzo-Sonderkondition ergänzt **5 weitere Seiten**.<br>
 Alle 20 Seiten werden neu erstellt und veröffentlicht.
 
 Das kumulierte monatliche Suchvolumen der geprüften Begriffe beträgt 2.940.<br>
-Diese Zahl ist keine Prognose für Website-Besuche.
+Die Entwicklung der neuen Seiten wird im monatlichen Reporting dokumentiert.
 
 > **2 von 20 Empfehlungen sind vollständig sichtbar.**<br>
 > Die weiteren 18 SEO-Seiten werden nach Projektstart im SEO Page Guide freigegeben.
@@ -181,7 +181,7 @@ Diese Zahl ist keine Prognose für Website-Besuche.
 | █████████████████ | Im SEO Page Guide | Freigabe nach Projektstart | B · Zusatzmarkt |
 
 Semrush Keyword Overview, Deutschland, Desktop; abgerufen am 13.07.2026.<br>
-Suchvolumen sind Schätzwerte und keine Traffic-Prognose.
+Die angegebenen Volumen entsprechen dem monatlichen Suchvolumen gemäß Semrush.
 
 ---
 
@@ -215,8 +215,8 @@ Der Zeitplan setzt Benzo-Freigaben innerhalb von zwei Werktagen voraus.
 
 ## 05 — Erwartete SEO-Entwicklung
 
-Die Kurve zeigt eine typische qualitative Entwicklungsrichtung.<br>
-Sie ist keine garantierte Prognose.
+Die Kurve zeigt die angestrebte qualitative Entwicklungsrichtung.<br>
+Die angebotene SEO-Laufzeit umfasst die Monate 1–6.
 
 | Phase | Zeitraum | Vertragsstatus | Mögliche Entwicklung |
 |---|---|---|---|
@@ -225,7 +225,7 @@ Sie ist keine garantierte Prognose.
 | Ausbau | Monate 7–9 | Nur bei schriftlicher Verlängerung | Erfolgreiche Seiten können weiter optimiert werden. |
 | Stabilisierung | Monate 10–12+ | Nur bei schriftlicher Verlängerung | Starke Seiten können weiter gefestigt werden. |
 
-Die Kurve garantiert keine Positionen, Website-Besuche, Anfragen oder Umsätze.
+Rankings, Sichtbarkeit und Seitenleistung werden monatlich ausgewertet und priorisiert optimiert.
 
 ---
 
@@ -381,5 +381,4 @@ Seit 2018 helfen wir Unternehmen, online sichtbar zu werden, Kundenanfragen zu g
 
 Analyse erstellt am 13.07.2026.<br>
 Semrush-Datenstand 12.07.2026.<br>
-Semrush-Werte sind Schätzungen und keine tatsächlichen Analytics-, Umsatz- oder Lead-Daten.<br>
-Rankings verändern sich laufend.
+Die weitere Entwicklung wird im monatlichen Reporting dokumentiert.

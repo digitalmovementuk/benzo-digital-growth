@@ -56,7 +56,7 @@ Der nächste Schritt sind eigene SEO-Seiten für konkrete Suchanfragen von Gastr
 Weitere bestehende Ranking-Chancen sind „italienische Lebensmittel Berlin“ auf Position 9, „italienische Feinkost Berlin“ auf Position 10 und „italienischer Supermarkt Berlin“ auf Position 11.<br>
 Die dazugehörigen Seitendetails werden mit den übrigen geschützten Empfehlungen im SEO Page Guide freigegeben.
 
-**Empfohlene Umsetzung:** 15 neue SEO-Seiten, sechs Monate Optimierung und Reporting sowie eine Website, die für B2B-Anfragen entwickelt wird.<br>
+**Empfohlene Umsetzung:** 20 neue SEO-Seiten, sechs Monate Optimierung und Reporting sowie eine Website, die für B2B-Anfragen entwickelt wird.<br>
 Die genannten Positionen gehören heute der bestehenden Startseite.<br>
 Die neuen SEO-Seiten existieren noch nicht.<br>
 Rankings, Website-Besuche und Anfragen werden nicht garantiert.
@@ -145,16 +145,17 @@ Benzo braucht eigene SEO-Seiten für Suchbegriffe, die Wettbewerber bereits auf 
 
 ## 03 — Neue SEO-Seiten
 
-### 15 neue SEO-Seiten
+### 20 neue SEO-Seiten
 
-Das Growth-Paket umfasst **7 datenbasierte Kernseiten** und **8 ergänzende Growth-Seiten**.<br>
-Alle 15 Seiten werden neu erstellt und veröffentlicht.
+Das reguläre Growth-Paket umfasst **7 datenbasierte Kernseiten** und **8 ergänzende Growth-Seiten**.<br>
+Die Benzo-Sonderkondition ergänzt **5 weitere Seiten**.<br>
+Alle 20 Seiten werden neu erstellt und veröffentlicht.
 
 Das kumulierte monatliche Suchvolumen der geprüften Begriffe beträgt 2.940.<br>
 Diese Zahl ist keine Prognose für Website-Besuche.
 
-> **2 von 15 Empfehlungen sind vollständig sichtbar.**<br>
-> Die weiteren 13 SEO-Seiten werden nach Projektstart im SEO Page Guide freigegeben.
+> **2 von 20 Empfehlungen sind vollständig sichtbar.**<br>
+> Die weiteren 18 SEO-Seiten werden nach Projektstart im SEO Page Guide freigegeben.
 
 | Empfohlene neue SEO-Seite | Suchbegriffe · Volumen | Bestehender Zustand | Priorität |
 |---|---|---|---|
@@ -173,6 +174,11 @@ Diese Zahl ist keine Prognose für Website-Besuche.
 | █████████████████ | Im SEO Page Guide | Freigabe nach Projektstart | B · Sortiment |
 | █████████████████ | Im SEO Page Guide | Freigabe nach Projektstart | B · Sortiment |
 | █████████████████ | Im SEO Page Guide | Freigabe nach Projektstart | B · Sortiment |
+| █████████████████ | Im SEO Page Guide | Freigabe nach Projektstart | B · B2B |
+| █████████████████ | Im SEO Page Guide | Freigabe nach Projektstart | B · Sortiment |
+| █████████████████ | Im SEO Page Guide | Freigabe nach Projektstart | B · Service |
+| █████████████████ | Im SEO Page Guide | Freigabe nach Projektstart | B · Liefergebiet |
+| █████████████████ | Im SEO Page Guide | Freigabe nach Projektstart | B · Zusatzmarkt |
 
 Semrush Keyword Overview, Deutschland, Desktop; abgerufen am 13.07.2026.<br>
 Suchvolumen sind Schätzwerte und keine Traffic-Prognose.
@@ -265,7 +271,8 @@ Nicht enthalten sind Shop-Neubau, Produktmigration, Fotografie, Hosting, Domain,
 - Regulärer SEO-Preis: 2.498 EUR/Monat
 - Benzo-Preis: **1.249 EUR/Monat für sechs Monate**
 - Rabatt auf den monatlichen SEO-Preis: **50 %**
-- Enthalten: **15 neue SEO-Seiten** plus monatliche Optimierung und Reporting
+- Enthalten: **20 neue SEO-Seiten** plus monatliche Optimierung und Reporting
+- Benzo-Vorteil: **5 zusätzliche Seiten** gegenüber dem regulären Growth-Paket
 - Website-Modul regulär: 11.999 EUR
 - Website-Modul mit Sonderkondition: **299 EUR einmalig**
 - Leistungsumfang des Website-Moduls: identisch; nur der Preis ist reduziert

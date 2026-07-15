@@ -268,6 +268,9 @@ Nicht enthalten sind Shop-Neubau, Produktmigration, Fotografie, Hosting, Domain,
 
 **Growth · Benzo-Sonderkondition**
 
+> **+5 EXTRA SEO-SEITEN INKLUSIVE**  
+> Regulär 15 Seiten → Benzo 20 Seiten
+
 - Regulärer SEO-Preis: 2.498 EUR/Monat
 - Benzo-Preis: **1.249 EUR/Monat für sechs Monate**
 - Rabatt auf den monatlichen SEO-Preis: **50 %**
